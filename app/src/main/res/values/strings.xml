@@ -4,4 +4,25 @@
     <string name="button1">Button1</string>
     <string name="large_text">Large Text</string>
     <string name="button2">Button2</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="tv_name">Name:</string>
+    <string name="et_name"></string>
+    <string name="tv_password">Password:</string>
+    <string name="et_password"></string>
+    <string name="registration_form">Registration Form</string>
+    <string name="welcome_to_adventure_learning_club">Welcome to Adventure Learning Club!</string>
+    <string name="full_name">Full Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="student_id">Student ID</string>
+    <string name="blanks"></string>
+    <string name="school">School</string>
+    <string name="e_mail">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="button7">Register</string>
+    <string name="pic">Pic</string>
 </resources>
